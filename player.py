@@ -22,9 +22,7 @@ class Player:
 #         else:
 #             print("You cannot move in that direction.")
 
-# print('Enter your name:')
-# name = input()
-# print('Hello' ,name , 'Welcome to the Game')
+
 
 
 
